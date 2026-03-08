@@ -1,0 +1,7 @@
+django
+djangorestframework
+psycopg2-binary
+celery
+redis
+openpyxl
+django-celery-results
